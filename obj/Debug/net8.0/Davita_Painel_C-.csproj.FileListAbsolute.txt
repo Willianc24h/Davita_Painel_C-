@@ -1,0 +1,6 @@
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\obj\Debug\net8.0\Davita_Painel_C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\obj\Debug\net8.0\Davita_Painel_C-.AssemblyInfoInputs.cache
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\obj\Debug\net8.0\Davita_Painel_C-.AssemblyInfo.cs
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\obj\Debug\net8.0\Davita_Painel_C-.csproj.CoreCompileInputs.cache
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\obj\Debug\net8.0\Davita_Painel_C-.sourcelink.json
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\obj\Debug\net8.0\Davita_Painel_C-.csproj.AssemblyReference.cache
