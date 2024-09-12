@@ -4,3 +4,17 @@ C:\Users\WSILVA\Desktop\Davita_Painel_C-\obj\Debug\net8.0\Davita_Painel_C-.Assem
 C:\Users\WSILVA\Desktop\Davita_Painel_C-\obj\Debug\net8.0\Davita_Painel_C-.csproj.CoreCompileInputs.cache
 C:\Users\WSILVA\Desktop\Davita_Painel_C-\obj\Debug\net8.0\Davita_Painel_C-.sourcelink.json
 C:\Users\WSILVA\Desktop\Davita_Painel_C-\obj\Debug\net8.0\Davita_Painel_C-.csproj.AssemblyReference.cache
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\bin\Debug\net8.0\Davita_Painel_C-.exe
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\bin\Debug\net8.0\Davita_Painel_C-.deps.json
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\bin\Debug\net8.0\Davita_Painel_C-.runtimeconfig.json
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\bin\Debug\net8.0\Davita_Painel_C-.dll
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\bin\Debug\net8.0\Davita_Painel_C-.pdb
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\bin\Debug\net8.0\System.Net.Http.Extensions.dll
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\bin\Debug\net8.0\System.Net.Http.Primitives.dll
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\obj\Debug\net8.0\Davita_P.32638C17.Up2Date
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\obj\Debug\net8.0\Davita_Painel_C-.dll
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\obj\Debug\net8.0\refint\Davita_Painel_C-.dll
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\obj\Debug\net8.0\Davita_Painel_C-.pdb
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\obj\Debug\net8.0\Davita_Painel_C-.genruntimeconfig.cache
+C:\Users\WSILVA\Desktop\Davita_Painel_C-\obj\Debug\net8.0\ref\Davita_Painel_C-.dll

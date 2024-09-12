@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Davita_Painel_C-")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+335e00815d62a7314f0a8477f1acacd457a6b6ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8da0a740fe22d811e7c8d77a81d2859bbaf2bac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Davita_Painel_C-")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Davita_Painel_C-")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
